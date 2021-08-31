@@ -21,6 +21,8 @@ if You Click On The Channels Number The It Generate The Graph Automatically.
 
 The Graph Is Set to Not Start With ZERO (0) , if Set With Zero The Apply The [ True Property ]
 
+This application is Not Mobile Friendly.
+
 Hosted On Github Pages
 
 Hosted : URL https://ranjanshrma2003.github.io/graph
