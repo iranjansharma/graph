@@ -42,7 +42,7 @@ xmlhttp.onreadystatechange = function () {
       return elem.chan8;
     });
 
-    console.log(chan8);
+   
 
     let ctx = document.getElementById("Chart").getContext("2d");
     let myChart = new Chart(ctx, {
