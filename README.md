@@ -1,3 +1,8 @@
+Name: Ranjan Sharma
+Enrollment Number-06716403219
+Course: B.Tech CSE
+
+
 This Project Is Used To Generate The Best Graph For The Given Data Set.
 
 Used Technology:
