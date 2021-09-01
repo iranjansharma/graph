@@ -6,7 +6,8 @@ Used Technology:
 2. CSS
 3. JAVASCRIPT (Chart.Js)
 
-Channe-l is Default And if You Want to See Previous Graph Data Then Click On Channel Sequence This Will Allow You To Show The Date.
+Channel-1 is Default And if You Want to See Previous Graph Data Then Click On Channel Sequence This Will Allow You To Show The Date.
+
 Note: Hide the Other Graph To See Well Structure Of Dataset Graph.(For Better Presentation See 1 Fraph at a Time And Hide Another by Clicking On Channel Number)
 
 Raw Data Link : https://drive.google.com/file/d/193sa-mmBgQDSKJIfG5TwhGx17X8LNbKJ/view
