@@ -3,7 +3,7 @@
 #### Branch : BTech CSE
 
 # Heat treatment
-This Project Show The Graph of Given Heat treatment data of a furnace is constantly monitored and can be received as a stream of
+This project show the graph of given heat treatment data of a furnace is constantly monitored and can be received as a stream of
 data.
 
 
@@ -27,7 +27,7 @@ Channel-1 is default and if you want to see previous graph data then click on ch
 
 ## Note:
 
-Hide the other Graph to see well structure of Dataset Graph. (For better presentation See 1 Graph at a time and hide another by clicking on channel number)
+Hide the other graph to see well structure of Dataset graph. (For better presentation See 1 Graph at a time and hide another by clicking on channel number)
 
 ## Raw Data Link:
 https://drive.google.com/file/d/193sa-mmBgQDSKJIfG5TwhGx17X8LNbKJ/view
