@@ -20,30 +20,6 @@ data.
 
 https://ranjanshrma2003.github.io/graph
   
-## Screenshots
-
-### Channel 1 Graph
-![App Screenshot](https://raw.githubusercontent.com/ranjanshrma2003/graph/main/screenshots/default-channel.jpeg)
-### Channel 2 Graph
-![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channe-2.jpeg?raw=true)
-### Channel 3 Graph
-![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel-3.jpeg?raw=true)
-### Channel 4 Graph
-![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel-4.jpeg?raw=true)
-
-### Channel 5 Graph 
-![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel-5.jpeg?raw=true)
-
-### Channel 6 Graph
-![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel-6.png?raw=true)
-
-### Channel 7 Graph
-![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel-7.png?raw=true)
-### Channel 8 Graph
-![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel-8.png?raw=true)
-
-### Channel 2 to 8 
-![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel2-8.png?raw=true)
 ## Authors
 
 - [@RanjanSharma](https://www.github.com/ranjanshrma2003)
@@ -76,3 +52,27 @@ This application is Not Mobile Friendly.
 Hosted on github pages
 
   
+## Screenshots
+
+### Channel 1 Graph
+![App Screenshot](https://raw.githubusercontent.com/ranjanshrma2003/graph/main/screenshots/default-channel.jpeg)
+### Channel 2 Graph
+![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channe-2.jpeg?raw=true)
+### Channel 3 Graph
+![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel-3.jpeg?raw=true)
+### Channel 4 Graph
+![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel-4.jpeg?raw=true)
+
+### Channel 5 Graph 
+![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel-5.jpeg?raw=true)
+
+### Channel 6 Graph
+![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel-6.png?raw=true)
+
+### Channel 7 Graph
+![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel-7.png?raw=true)
+### Channel 8 Graph
+![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel-8.png?raw=true)
+
+### Channel 2 to 8 
+![App Screenshot](https://github.com/ranjanshrma2003/graph/blob/main/screenshots/channel2-8.png?raw=true)
