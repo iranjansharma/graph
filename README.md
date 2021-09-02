@@ -20,10 +20,6 @@ data.
 
 https://ranjanshrma2003.github.io/graph
   
-## Authors
-
-- [@RanjanSharma](https://www.github.com/ranjanshrma2003)
-
   
 ## Appendix
 
@@ -50,6 +46,12 @@ The graph is set to not start with ZERO (0) if set with zero, then apply [ True 
 This application is Not Mobile Friendly.
 
 Hosted on github pages
+
+
+## Authors
+
+- [@RanjanSharma](https://www.github.com/ranjanshrma2003)
+
 
   
 ## Screenshots
