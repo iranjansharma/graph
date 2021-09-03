@@ -41,7 +41,7 @@ Parsing the data from CSV to JSON format and passing it into chart JS to generat
 
 Initially, the Channel's-1 data is active, if you click on the channel's number, it will generate the graph automatically.
 
-The graph is set to not start from ZERO (0) and if it set from zero, then apply [ True Property ]
+The graph may not start from (0,0) and if it starts from origin, then apply [ True Property ]
 
 This application is Not mobile friendly.
 
