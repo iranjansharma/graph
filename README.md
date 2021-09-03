@@ -27,7 +27,7 @@ Channel-1 is default and if you want to see previous graph data then click on ch
 
 ## Note:
 
-Hide the other graphs to see well structured Dataset graph. (For better presentation See 1st Graph at a time and hide another by clicking on channel number)
+Hide the other graphs to see well structured Dataset graph. (For better presentation See 1st Graph at a time and hide others by clicking on the channel number)
 
 ## Raw Data Link:
 https://drive.google.com/file/d/193sa-mmBgQDSKJIfG5TwhGx17X8LNbKJ/view
