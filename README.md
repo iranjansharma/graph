@@ -39,7 +39,7 @@ Process:
 
 Parsing the data from CSV to JSON format and passing it into chart JS to generate the graph.
 
-Initially, the Channel's-1 data is active, if you click on the channel's number, it will generate the graph automatically.
+Initially, the Channel-1's data is active, if you click on the channel's number, it will generate the graph automatically.
 
 The graph may not start from (0,0) and if it starts from origin, then apply [ True Property ]
 
