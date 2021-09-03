@@ -3,7 +3,7 @@
 #### Branch : BTech CSE
 
 # Heat treatment
-This project show the graph of given heat treatment data of a furnace is constantly monitored and can be received as a stream of
+This project shows the graph of multiple given heat treatment data of a furnace which is constantly monitored and can be received as a stream of
 data.
 
 
@@ -23,11 +23,11 @@ https://ranjanshrma2003.github.io/graph
   
 ## Appendix
 
-Channel-1 is default and if you want to see previous graph data then click on channel sequence this will allow you to show the Data.
+Channel-1 is default and if you want to see previous graph data then click on channel sequence this will allow you to show the data.
 
 ## Note:
 
-Hide the other graph to see well structure of Dataset graph. (For better presentation See 1 Graph at a time and hide another by clicking on channel number)
+Hide the other graph to see well structured Dataset graph. (For better presentation See 1st Graph at a time and hide another by clicking on channel number)
 
 ## Raw Data Link:
 https://drive.google.com/file/d/193sa-mmBgQDSKJIfG5TwhGx17X8LNbKJ/view
@@ -39,11 +39,11 @@ Process:
 
 Parsing the data from CSV to JSON format and passing into chart JS to generate the graph.
 
-Initially, the Channel-1 data is active. if you click on the channels number, it generate the graph automatically.
+Initially, the Channel-1 data is active. if you click on the channel's number, it will generate the graph automatically.
 
-The graph is set to not start with ZERO (0) if set with zero, then apply [ True Property ]
+The graph is set to not start from ZERO (0) and if it set from zero, then apply [ True Property ]
 
-This application is Not Mobile Friendly.
+This application is Not mobile friendly.
 
 Hosted on github pages
 
