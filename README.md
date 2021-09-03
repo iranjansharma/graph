@@ -37,9 +37,9 @@ https://raw.githubusercontent.com/ranjanshrma2003/jsondata/main/dataset.json
 
 Process:
 
-Parsing the data from CSV to JSON format and passing into chart JS to generate the graph.
+Parsing the data from CSV to JSON format and passing it into chart JS to generate the graph.
 
-Initially, the Channel-1 data is active. if you click on the channel's number, it will generate the graph automatically.
+Initially, the Channel's-1 data is active, if you click on the channel's number, it will generate the graph automatically.
 
 The graph is set to not start from ZERO (0) and if it set from zero, then apply [ True Property ]
 
